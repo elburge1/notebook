@@ -1,0 +1,9 @@
+Day Three
+Git is a version control tool. This allows you to track projects and move forward and backward in the timeline of the project.
+To open a git repository, use the command 'git init'
+The important parts of a git repository are the staging area, and the timeline. When you use 'git add' on a file, you place it in the staging area. When you use 'git commit' you move them from the staging area into the timeline. If you want to look at previous commits you use 'git log', which will provide you with 5 pieces of information.
+1) Commit ID
+2) Signature (Author name and e-mail)
+3) Timestamp of commit
+4) Commit Message
+5) Changes made from the previous version
