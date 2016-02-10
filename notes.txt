@@ -1,0 +1,128 @@
+ll
+#Shortcut for ls -lh
+ls
+#lists contents of current directory
+echo notes.txt
+open notes.txt
+#opens notes.txt file
+history
+#lists command history
+rm notes.txt
+#deletes notes.txt file
+notebook/
+#changes into notebook directory
+Projects/
+#changes into Projects directory
+touch notes.txt
+#creates a new, empty file called notes.txt
+..
+#changes into the parent directory
+cd notebook/
+#also changes into the notebook directory
+mkdir notebook
+#creates a new directory named notebook
+cd Projects/
+#changes into Projects directory
+cd
+#changes back to the home directory
+Documents/
+Library/ColorPickers/
+Sounds/
+Audio/
+Library/
+Accounts/
+Public/
+Public
+cd Public
+cd elburge1.surge.sh/
+cd Colors/
+cd Metadata/
+cd Cookies/
+cd Library/
+cd Documents/
+cd Do
+cd Desktop/
+cd ..
+man ls
+#lists out all the flags for ls command
+ls -l
+#lists long view of items in current directory
+pwd
+#prints the name of the current working directory
+cd /
+tree -L 2
+tree -aL 1
+tree -a
+tree -L 1
+brew install tree
+ls -a
+ls -@
+ls -R
+ls -i
+ls -S
+ls -T
+ls -O
+ls -F
+ls -d
+ls -D
+ls -C
+ls -1
+ls -r
+ls -lt
+ls -t
+open .
+#opens the directory in the finder
+open /Users/Eddy_Burgess/
+open ~
+echo ~
+which whoami
+whoami
+clear
+cd..
+open http://elburge1.surge.sh
+surge
+open index.html
+atom .
+surge -V
+rm ~/Desktop/test.js
+node ~/Desktop/test.js
+atom ~/Desktop/test.js
+node
+node -v
+brew install node
+curl -fsSL https://git.io/vgqFH | sh
+git config --global user.name 'Edward Burgess'
+git config --global user.email 'elburgess1@gmail.com'
+git config --global user.email 'Edward Burgess'
+which git
+git --version
+which echo
+echo $PATH
+shout $PATH
+echo $EDITOR
+atom ~/.config/fish/config.fish
+git commit -m 'add a CNAME'
+git add CNAME
+touch CNAME
+git commit -m 'add a tiny web page'
+git add index.html
+touch index.html
+git init
+mkdir elburge1.surge.sh
+cd Prjoects
+mkdir ~/Projects
+npm install -g surge
+brew install git
+brew info fish
+fish_update_completions
+brew upgrade fish
+brew install fish
+brew doctor
+brew update
+ls -G
+uname
+exit
+curl -fsSL https://git.io/vgqFU | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
