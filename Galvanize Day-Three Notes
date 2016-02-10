@@ -9,3 +9,6 @@ The important parts of a git repository are the staging area, and the timeline. 
 5) Changes made from the previous version
 
 Atom will let you know about new changes to a git file by changing the color of the bar directly to the right of the file tree.
+'HEAD' in git, represents the most recent commit.
+GITHUB
+A remote is another machine where you want to 'push' and 'pull' .git folders around.
