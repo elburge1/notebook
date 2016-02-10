@@ -1,0 +1,7 @@
+Day 1 notes
+Production environment: Biggest concern is processing user requests quickly
+Development environment: Biggest concern is allowing the programmer to code as efficiently as possible
+Ideally, one tool would allow people to create code, test code, commit code and deploy code efficiently. This is problematic in practice, because some tools work more efficiently for certain tasks than others. This problem has led to the popularity of unix philosophy.
+Unix Philosophy: Emphasizing using simple, short, clear, modular, and extensible tools that can be easily maintained and repurposed by developers other than its creators. Each tool should be easily replaceable.
+Terminal: an app that runs a Unix shell.
+Unix shell: a command line user interface between you and your computer's operating system. Shells are both interactive and scriptable, which means that the same lines you put into the command line to control the operating system can also be put into an executable script file. 

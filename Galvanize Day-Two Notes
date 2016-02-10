@@ -1,0 +1,18 @@
+Day 2 Notes
+The information displayed by the ls -l command is as follows:
+Column 1) If the first letter is a D, the item in question is a directory
+Column 2) The next 3 characters are r(read),w(write),x(execute). These letters relate to the permissions for the owners of the directory in question (named in the 4th column). The second set of 3 letters show group permissions and the final 3 letters indicate what permissions everyone has with the directories.
+Column 3) The number of files within the directory
+Column 4) Owner
+Column 5) Group
+Column 6) File Size
+Column 7) Date last modified
+Column 8) Directory name
+
+The command ls -t displays the directories in order of most recently altered.
+You can combine flags (i.e. ls -lt will list the directories in long form, and in the order of most recently altered)
+
+In naming directories/files, Using underscores are called 'snake_case', using hyphens is called 'kebab-case', using uppercase letters to denote a new word is called 'camelCase'.
+
+Self-Reflection
+Today, we finished optimizing our development environment in the morning, and moved on to command-line work in the second part of the day. I struggled to focus after lunch due to normal circadian rhythm dropping. I very much enjoyed learning all of the different ways you could create, move, copy and delete files and directories and the work I did on my own, in addition to the instruction given, was very helpful. This was a very important class for me, as I have struggled with file manipulation in the command line in the past. I also enjoyed listening to others' creative ways to use the commands we were taught throughout the day and using some of what I learned from them to help me make better notes. I did struggle with the ls flags, so it would be good for me to practice using those on my own, but overall I grasped much of what was discussed today and feel fairly confident about my ability to use the new commands to help me in the coming classes. 
