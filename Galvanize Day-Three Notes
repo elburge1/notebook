@@ -7,3 +7,5 @@ The important parts of a git repository are the staging area, and the timeline. 
 3) Timestamp of commit
 4) Commit Message
 5) Changes made from the previous version
+
+Atom will let you know about new changes to a git file by changing the color of the bar directly to the right of the file tree.
