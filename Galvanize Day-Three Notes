@@ -12,3 +12,4 @@ Atom will let you know about new changes to a git file by changing the color of 
 'HEAD' in git, represents the most recent commit.
 GITHUB
 A remote is another machine where you want to 'push' and 'pull' .git folders around.
+github is a great place to store your timeline. Once you have set your origin, you use push to send new commits to your git repository on github.
